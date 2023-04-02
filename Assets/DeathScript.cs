@@ -33,8 +33,8 @@ public class DeathScript : MonoBehaviour
             // isDead = true;
         }
     }
-// will be used in project 2
-    // public bool getIsDead(){
-    //     return isDead;
-    // }
+
+    public bool getIsDead(){
+        return isDead;
+    }
 }
